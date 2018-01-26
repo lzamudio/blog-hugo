@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://lzamudio.github.io/blog-hugo/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
