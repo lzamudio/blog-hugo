@@ -6,10 +6,19 @@
     <description>Recent content on Luis Zamudio - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Jan 2018 18:20:21 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 18:58:42 -0600</lastBuildDate>
     
 	<atom:link href="https://lzamudio.github.io/blog-hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Segundo</title>
+      <link>https://lzamudio.github.io/blog-hugo/segundo/</link>
+      <pubDate>Thu, 25 Jan 2018 18:58:42 -0600</pubDate>
+      
+      <guid>https://lzamudio.github.io/blog-hugo/segundo/</guid>
+      <description>Segundo post Este es mi segundo post</description>
+    </item>
     
     <item>
       <title>My First Post</title>
