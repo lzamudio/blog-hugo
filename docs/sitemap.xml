@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://lzamudio.github.io/blog-hugo/posts/my-first-post/</loc>
     <lastmod>2018-01-25T18:20:21-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://lzamudio.github.io/blog-hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-01-25T18:20:21-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
+    <loc>https://lzamudio.github.io/blog-hugo/</loc>
     <lastmod>2018-01-25T18:20:21-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://lzamudio.github.io/blog-hugo/posts/</loc>
+    <lastmod>2018-01-25T18:20:21-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzamudio.github.io/blog-hugo/tags/</loc>
     <priority>0</priority>
   </url>
   
