@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lzamudio.github.io/blog-hugo/segundo/</loc>
+    <lastmod>2018-01-25T18:58:42-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lzamudio.github.io/blog-hugo/posts/my-first-post/</loc>
     <lastmod>2018-01-25T18:20:21-06:00</lastmod>
   </url>
@@ -14,7 +19,13 @@
   
   <url>
     <loc>https://lzamudio.github.io/blog-hugo/</loc>
-    <lastmod>2018-01-25T18:20:21-06:00</lastmod>
+    <lastmod>2018-01-25T18:58:42-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzamudio.github.io/blog-hugo/post/</loc>
+    <lastmod>2018-01-25T18:58:42-06:00</lastmod>
     <priority>0</priority>
   </url>
   
