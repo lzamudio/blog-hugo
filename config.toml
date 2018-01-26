@@ -7,19 +7,19 @@ paginate        = 6
 publishDir = "docs"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  title       = "Luis Zamudio - Blog"
+  subtitle    = "Luis Zamudio - Blog"
 
   cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  description = ""
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
+  twitterName = "https://twitter.com/luis_zamudio90"
+  fbName = "https://www.facebook.com/luis.zamudio.cervantes"
+  githubName = "https://github.com/lzamudio"
 
   logo = "hugo-logo.png"
   orgName = "EM"
